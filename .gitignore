@@ -1,0 +1,9 @@
+node_modules/
+dist/
+venv/
+data/raw/
+docs/
+deliverables/
+__pycache__/
+*.pyc
+data/processed/
